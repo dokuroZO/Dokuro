@@ -19,7 +19,7 @@ Points in Dokuro are a way of keeping track of how many of our events you've att
 [H](#h)
 [I](#i)
 [J](#j)
-[J](#k)
+[K](#k)
 [L](#l)
 [M](#m)
 [N](#n)
