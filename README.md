@@ -1,5 +1,4 @@
-Site for ZO Clan: Dokuro
+# ZO | Dokuro Clan
 
-made by an idiot who has no idea what he's doing
-
-this is literally my third attempt at this and it better be my last
+This is a small information site about the ZOぞ clan, Dokuro. <br/>
+Here, you can find information about the clan and how we operate, and also check to see how many points you have for rankups.
