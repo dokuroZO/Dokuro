@@ -180,9 +180,9 @@ Points in Dokuro are a way of keeping track of how many of our events you've att
 
 | Name | Current Rank | Next Rank | Points |
 |-|-|-|-|
+| | | | |
 
-### X| | | | |
-
+### X
 
 | Name | Current Rank | Next Rank | Points |
 |-|-|-|-|
