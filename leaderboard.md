@@ -4,7 +4,7 @@
 
 ## Top 10
 
-Time of last update: August 20th
+Time of last update: August 22nd
 
 1. Xyphiz: 470
 2. AncientWakko: 350
