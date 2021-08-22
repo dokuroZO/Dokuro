@@ -72,7 +72,6 @@ Points in Dokuro are a way of keeping track of how many of our events you've att
 | Name | Current Rank | Next Rank | Points |
 |-|-|-|-|
 | EnoTheSlime | Bushi | Bugyo | 230 |
-| example_person | Bugyo | N/a | 420 |
 
 ### F
 
