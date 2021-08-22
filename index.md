@@ -14,7 +14,7 @@ Here is where you will find information about the Clan Dokuro for the game ZOぞ
 
 ## Less Important Links
 
-[Formations Guide (We literally never use this idk why we still have it)](https://docs.google.com/document/d/1yHrYjtamVv51xGqQXGVyqQ0FmkSzt4D3FeH3_tTiWDk/edit?usp=sharing)
+[Formations Guide](https://docs.google.com/document/d/1yHrYjtamVv51xGqQXGVyqQ0FmkSzt4D3FeH3_tTiWDk/edit?usp=sharing)
 
 [Points Leaderboard](leaderboard.md)
 
