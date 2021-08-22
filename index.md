@@ -1,6 +1,6 @@
 # ZO | Dokuro Clan 
 
-Here is where you will find information about the Clan: Dokuro for the game ZOぞ
+Here is where you will find information about the Clan Dokuro for the game ZOぞ
 
 ## Important Links
 
