@@ -1,8 +1,6 @@
 # ZO | Dokuro Clan 
 
-Theres stuff about our epic gamer clan thing here I guess
-
-test4
+Here is where you will find information about the Clan: Dokuro for the game ZOぞ
 
 ## Important Links
 
