@@ -8,11 +8,11 @@
 
 ## Daimyo
 
-none
+N/A
 
 ## Hatamoto
 
-none
+N/A
 
 ## Gokenin
 
