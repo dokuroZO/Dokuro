@@ -26,7 +26,7 @@ If an event is hosted which is not writted down in the above, how many points yo
 
 ### Member Ranks
 
-Ronin: Default
+Ronin: Be in group
 
 Ashigaru: 10 Points
 
