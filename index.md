@@ -8,8 +8,6 @@ Here is where you will find information about the Clan Dokuro for the game ZOぞ
 
 [Points](points.md)
 
-[Ranks Guide](guide.md)
-
 [Server](https://discord.com/invite/kKgyEq3mPB)
 
 [Formations Guide](https://docs.google.com/document/d/1yHrYjtamVv51xGqQXGVyqQ0FmkSzt4D3FeH3_tTiWDk/edit?usp=sharing)
