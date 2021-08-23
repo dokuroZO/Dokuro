@@ -8,8 +8,6 @@ We use a point system, each rank has a certain amount of points required to achi
 
 ## Event Values
 
-### Main Events
-
 Training, FFA, Manhunt: 10 (each)
 
 Raid, Practice or Official (Both count): 20 (each)
@@ -18,13 +16,9 @@ Victorious Raid: 50 (each)
 
 Tournament: 10 (each), 50 if you win the tournament.
 
-### Misc Events
-
 If an event is hosted which is not writted down in the above, how many points you recieve will be written down on the event shout. (Generally, how many points you recieve is noted in all shouts)
 
 ## Ranks
-
-### Member Ranks
 
 Ronin: Be in group
 
@@ -36,14 +30,22 @@ Bushi: 200 Points
 
 Bugyo: 400 Points
 
-### Officer Ranks (Staff/Hosts)
+### Officer Ranks (Staff)
 
 Gokenin: Apply via application
 
 Hatamoto: Handpicked from Gokenin by the Shogun
 
-### Leaders
+### First and Second in Command
 
 Daimyo: Appointed by the Shogun
 
 Shogun: Clan leader
+
+## Perks
+
+If you want to apply for Officer, you have to fill out a staff application which will be sent in the #announcements channel. (Must be at least a Goshi to apply)
+
+## Extra
+
+Community Managers (Mods): Apply through application, which would be released in the #announcements.
